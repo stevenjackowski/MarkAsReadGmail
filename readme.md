@@ -19,4 +19,3 @@ $ pip3 install -r requirements.txt
 ~~~~
 $ python3 mark_as_read.py
 ~~~~
-...and the script should take care of the rest!
